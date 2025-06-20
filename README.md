@@ -33,7 +33,7 @@ A simple calculator web application built with the Yii2 PHP framework that suppo
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/calculator-yii2.git
+   git clone https://github.com/Hddr01/calculator-yii2.git
    cd calculator-yii2
    ```
 
